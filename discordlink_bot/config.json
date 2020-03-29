@@ -1,0 +1,6 @@
+{
+	"token": "INSERT BOT TOKEN HERE",
+	"guild": "INSERT GUILDNAME HERE",
+	"roleName": "INSERT ROLE NAME HERE (LINKED ROLE)",
+	"prefix": "%"
+}
